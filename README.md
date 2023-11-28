@@ -2,4 +2,4 @@
 
 Hello
 
-![An image](./assets/bkg_image.png)
+![An image](./assets/bkg_image.jpg)
